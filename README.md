@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
+<h1 align="left">Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
 <h3 align="left">About me:</h3>
 <ul>
   <li>🏦 I'm a junior software developper based in southern France</li>
@@ -23,6 +23,6 @@
 <h3>My favorite quote:</h3>
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Blessed are the cracked, for they let in the light.❞</i>
+<i>❝Blessed are the cracked, for they shall let in the light ― Groucho Marx❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
