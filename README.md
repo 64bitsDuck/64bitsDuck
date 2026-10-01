@@ -2,7 +2,7 @@
 <h3 align="left">About me:</h3>
 <ul>
   <li>🏦 I'm a junior software developper based in southern France</li>
-  <li>🏫 I'm currently pursuing a bachelor in computer science</li>
+  <li>🏫 I'm currently pursuing an engineering degree in computer science</li>
   <li>👾 Cybersecurity enthusiast</li>
   <li>💬 Besides programming, i'm very passionate about dinosaurs & cinema</li>
   <li> <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" height="20em" align="top" alt="Arch Linux Logo" title="Arch Linux Logo"/></a> I use Arch btw</li>
